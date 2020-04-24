@@ -1,0 +1,6 @@
+name: navecore
+author: sami
+main: de.sami.NaveAPI
+version: 0.2
+
+commands:
